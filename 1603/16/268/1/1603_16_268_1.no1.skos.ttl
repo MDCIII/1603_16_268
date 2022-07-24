@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:268()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tbilisi"@eng-Latn ,
         "ქ. თბილისი"@kat-Geor ;
-    wdata:q7200235 "GE11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -56,7 +54,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Autonomous Republic of Abkhazia"@eng-Latn ,
         "აფხაზეთი"@kat-Geor ;
-    wdata:q7200235 "GE12" ;
 .
 
 <urn:mdciii:1603:16:268:1:15>
@@ -67,7 +64,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Autonomous Republic of Adjara"@eng-Latn ,
         "აჭარის ავტონომიური რესპუბლიკა"@kat-Geor ;
-    wdata:q7200235 "GE15" ;
 .
 
 <urn:mdciii:1603:16:268:1:23>
@@ -78,7 +74,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guria"@eng-Latn ,
         "გურია"@kat-Geor ;
-    wdata:q7200235 "GE23" ;
 .
 
 <urn:mdciii:1603:16:268:1:26>
@@ -89,7 +84,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Imereti"@eng-Latn ,
         "იმერეთი"@kat-Geor ;
-    wdata:q7200235 "GE26" ;
 .
 
 <urn:mdciii:1603:16:268:1:29>
@@ -100,7 +94,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kakheti"@eng-Latn ,
         "კახეთი"@kat-Geor ;
-    wdata:q7200235 "GE29" ;
 .
 
 <urn:mdciii:1603:16:268:1:32>
@@ -111,7 +104,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mtskheta-Mtianeti"@eng-Latn ,
         "მცხეთა-მთიანეთი"@kat-Geor ;
-    wdata:q7200235 "GE32" ;
 .
 
 <urn:mdciii:1603:16:268:1:35>
@@ -122,7 +114,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Racha-Lechkhumi and Kvemo Svaneti"@eng-Latn ,
         "რაჭა-ლეჩხუმი და ქვემო სვანეთი"@kat-Geor ;
-    wdata:q7200235 "GE35" ;
 .
 
 <urn:mdciii:1603:16:268:1:38>
@@ -133,7 +124,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samegrelo-Zemo Svaneti"@eng-Latn ,
         "სამეგრელო-ზემო სვანეთი"@kat-Geor ;
-    wdata:q7200235 "GE38" ;
 .
 
 <urn:mdciii:1603:16:268:1:41>
@@ -144,7 +134,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samtskhe-Javakheti"@eng-Latn ,
         "სამცხე-ჯავახეთი"@kat-Geor ;
-    wdata:q7200235 "GE41" ;
 .
 
 <urn:mdciii:1603:16:268:1:44>
@@ -155,7 +144,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kvemo Kartli"@eng-Latn ,
         "ქვემო ქართლი"@kat-Geor ;
-    wdata:q7200235 "GE44" ;
 .
 
 <urn:mdciii:1603:16:268:1:47>
@@ -166,7 +154,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shida Kartli"@eng-Latn ,
         "შიდა ქართლი"@kat-Geor ;
-    wdata:q7200235 "GE47" ;
 .
 
 <urn:mdciii:1603:16:268:1:48>
@@ -177,6 +164,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Provisional Administration"@eng-Latn ,
         "დროებითი ადმინისტრაცია"@kat-Geor ;
-    wdata:q7200235 "GE48" ;
 .
 
